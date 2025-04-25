@@ -91,9 +91,6 @@ You can modify various parameters in both the Arduino and Processing code:
 - Ensure the servo is receiving adequate power
 - Verify the ultrasonic sensor is working independently
 
-## License
-This project is released under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Inspiration from various radar projects in the Arduino community
 - Thanks to the Processing Foundation for their excellent visualization tools
